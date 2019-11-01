@@ -1,0 +1,913 @@
+    1  pwd
+    2  ls -la
+    3  zsh
+    4  sudo apt install zsh
+    5  sudo apt install vscode
+    6  zsh
+    7  zsh
+    8  /home/recruit/Desktop/CHALLENGES/convert.js
+    9  pwd
+   10  date
+   11  ps
+   12  quota
+   13  sudo apt install quota
+   14  quota
+   15  cd Desktop
+   16  new myProject
+   17  cd myProject
+   18  $ myProject
+   19  cd Desktop
+   20  mkdir myProject
+   21  cd myProject
+   22  mkdir app.js
+   23  cd Desktop
+   24  touch tiyi.html
+   25  cd Desktop
+   26  mkdir myProject
+   27  cd Desktop
+   28  mkdir myProject
+   29  cd myProject
+   30  touch app.js
+   31  cd Desktop
+   32  cd /
+   33  cd Desktop
+   34  cd / Desktop
+   35  cd ../
+   36  cd Desktop
+   37  cd ../Desktop
+   38  cd Desktop
+   39  mkdir tiyi
+   40  touch run.html
+   41  cd ../
+   42  cd Download
+   43  cd Desktop
+   44  cd myProject
+   45  cd Desktop
+   46  mkdir myProject
+   47  cd myProject
+   48  touch app.js
+   49  cd ../
+   50  cd Desktop
+   51  mkdir myProject2
+   52  cp app.js myProject2
+   53  cd Desktop
+   54  mkdir myProject
+   55  touch app.js
+   56  cd ../
+   57  cd Desktop
+   58  mkdir myProject2
+   59  cp app.js
+   60  cp ..help
+   61  cp app.js myProject2
+   62  cd Desktop
+   63  cd myProject2
+   64  cp app.js myProject2
+   65  cd ../
+   66  cd myProject
+   67  cp app.js myProject2
+   68  cd Desktop
+   69  mkdir myProject
+   70  cd myProject
+   71  touch app.js
+   72  cd ../
+   73  mkdir myProject2
+   74  cd myProject2
+   75  cp app.js myProject
+   76  cd ../
+   77  cd myProject
+   78  cp app.js myProject2
+   79  cd ../
+   80  cd myProject2
+   81  cp app.js myProject2
+   82  cp app.js Desktop/myProject
+   83  cd Desktop
+   84  cd ../
+   85  cp app.js myProject2
+   86  cd myProject
+   87  cp app.js myProject2
+   88  cp app.js /myProject2
+   89  cp app.js myProject2
+   90  cd ../
+   91  cp /root/Desktop/myProject/app.js /root/Desktop/myProject2
+   92  cat myProject
+   93  cat app.js
+   94  cp app.js myProject2
+   95  cd myProject
+   96  cp app.js myProject2
+   97  cd /
+   98  cd myProject2
+   99  cd Desktop
+  100  cd ../
+  101  cd Desktop
+  102  cd ../
+  103  hostnmae
+  104  hostname
+  105  cd Desktop
+  106  pwd
+  107  cd Desktop
+  108  cd myProject
+  109  cp app.js /home/recruit/Desktop/myProject2
+  110  cd..
+  111  cd ../
+  112  cd myProject2
+  113  ls
+  114  cd../
+  115  cd ../
+  116  cd myProject
+  117  ls
+  118  rm myProject2
+  119  ls
+  120  man
+  121  man pwd
+  122  claer
+  123  clear
+  124  pwd
+  125  sudo
+  126  sudo apt
+  127  sudo apt upgrade
+  128  clear
+  129  df
+  130  clear
+  131  hostname
+  132  clear
+  133  ps
+  134  man ps
+  135  clear
+  136  man quota
+  137  quota
+  138  top
+  139  uptime
+  140  find Tiyiselani
+  141  find TIYISELANI
+  142  find /home/recruit/Desktop/TIYISELANI
+  143  grep Tiyiselani
+  144  pwd
+  145  cd Desktop
+  146  ls
+  147  cd myProject
+  148  ls
+  149  touch myProject2/pop.txt
+  150  touch pop.txt
+  151  ls
+  152  git init
+  153  git add
+  154  git add <file>
+  155  sudo apt install node.js
+  156  clear
+  157  pwd
+  158  cd Desktop/git_practice/
+  159  cd Desktop
+  160  ls
+  161  cd git-practice
+  162  git init
+  163  git status
+  164  node Assignment1/Assignment1.js 
+  165  node Assignment1/Assignment1..JS
+  166  node Assignment1/Assignment1.js
+  167  node Assignment1/Assignment1.JS
+  168  git init
+  169  git status
+  170  touch practice.html
+  171  ls
+  172  cd practice.html
+  173  git status
+  174  git add practice.html
+  175  git status
+  176  git reset HEAD practice.html
+  177  git status
+  178  git add practice.html
+  179  git status
+  180  git reset HEAD practice.html
+  181  git status
+  182  cd Desktop
+  183  git clone https://github.com/Concellia/OOP-Assignment.git
+  184  ls
+  185  cd OOP-Assignment
+  186  ls
+  187  git init
+  188  git status
+  189  touch OOP.html
+  190  ls
+  191  git status
+  192  cope Desktop/Tiyiselani/Assignment/A
+  193  cl
+  194  clear
+  195  cd ../
+  196  cd TIYISELANI/Assignment/
+  197  ls
+  198  cd Assignment
+  199  cd Assignment1
+  200  ls
+  201  cd Assignment1.js OOP-Assignment
+  202  cp Assignment.js OOP-Assignment
+  203  cp Assignment1.js OOP-Assignment
+  204  cd ../../../
+  205  cd OOP-Assignment
+  206  ls
+  207  cd ../
+  208  cd TIYISELANI/Assignment
+  209  ls
+  210  cp Assignment Desktop/OOP-Assignment
+  211  cp Assignment1 Desktop/OOP-Assignment
+  212  cp -r Assignment1 Desktop/OOP-Assignment
+  213  clear
+  214  cd ../../
+  215  ls
+  216  cd OOP-Assignment
+  217  ls
+  218  git init
+  219  git status
+  220  git add Assignment1
+  221  git status
+  222  git commit Assignment1
+  223  git add .
+  224  git add.
+  225  git commit Assignment "Assignment 1 done"
+  226  git commit
+  227  cd Desktop
+  228  git clone https://github.com/Umuzi-org/live-coding-workshop-tdd-with-jasmine.git
+  229  ls
+  230  cd live-coding-workshop-tdd-with-jasmine
+  231  ls
+  232  cd Desktop
+  233  sudo apt install rpm
+  234  rpm -ivh jre-8u73-linux-x64.rpm
+  235  ls
+  236  ../
+  237  cd ../
+  238  ls
+  239  cd Downloads
+  240  ls
+  241  cd jre-8u211-linux-x64.rpm
+  242  rpm -ivh jre-8u73-linux-x64.rpm
+  243  rpm -ivh jre-8u211-linux-x64.rpm
+  244  cd ../
+  245  cd Desktop
+  246  cd ../
+  247  su
+  248  /home/recruit/robocode/robocode.sh
+  249  cd ../
+  250  cd Desktop
+  251  git clone https://github.com/Concellia/Concellia.github.io.git
+  252  pwd
+  253  cd Concellia.github.io/
+  254  git status
+  255  ls
+  256  git status
+  257  git add .
+  258  git status
+  259  git commit -m "Website first draft"
+  260  git status
+  261  git push
+  262  git status
+  263  ls
+  264  nano README.md
+  265  cd Desktop
+  266  git clone https://github.com/Concellia/tddCalculator.git
+  267  ls
+  268  cd tddCalculator
+  269  ls
+  270  git push tdd.js
+  271  git push live-coding-workshop-tdd-with-jasmine/src/tdd.js
+  272  cd ../
+  273  ls
+  274  cd live-coding-workshop-tdd-with-jasmine
+  275  ls
+  276  cd
+  277  pwdir
+  278  pwdr
+  279  ls
+  280  cd Desktop
+  281  cd tddCalculator
+  282  ls
+  283  git status
+  284  git add -a
+  285  git status
+  286  git add SpecRunner.html
+  287  git add tdd.js
+  288  git add tddspec.js
+  289  git status
+  290  git commit -a
+  291  git status
+  292  git commit -a -m "tdd calculator assignment"
+  293  git status
+  294  ls
+  295  git push
+  296  ls
+  297  git status
+  298  ls
+  299  nano README.md
+  300  cd Desktop
+  301  ls
+  302  git clone https://github.com/Concellia/CalculatorPart2.git
+  303  ls
+  304  cd CalculatorPart2
+  305  ls
+  306  git push
+  307  git status
+  308  git add -a
+  309  git status
+  310  git add .
+  311  git status
+  312  git commit -m "Calculator"
+  313  git status
+  314  git push
+  315  cd Desktop
+  316  git clone https://github.com/Concellia/Password_is_Valid.git
+  317  ls
+  318  cd Password_is_Valid
+  319  ls
+  320  git status
+  321  git commit -m "The password checker assignment"
+  322  git add .
+  323  git status
+  324  git commit -m "The password checker assignment"
+  325  git status
+  326  git push
+  327  git status
+  328  nano README.md
+  329  find umuzi
+  330  find umuzi.txt
+  331  find ./Desktop -name umuzi.txt
+  332  find ./Desktop -name *.txt
+  333  find ./Desktop -name exercise.txt -exec rm -i {} \;
+  334  find ./Desktop -name *.txt
+  335  find ./Desktop -empty
+  336  clear
+  337  find ./Desktop -perm 664
+  338  clear
+  339  find .-mtime -1 -print
+  340  find . -mtime -1 -print
+  341  clear
+  342  ls
+  343  cd ..
+  344  ls
+  345  cd ..
+  346  ls
+  347  pwd
+  348  cd home 
+  349  cd recruit
+  350  ls
+  351  find ./recruit -name *.pdf
+  352  find ./Desktop -name *.pdf
+  353  find ./home -name *.pdf
+  354  find ./computer -name *.pdf
+  355  clear
+  356  find . -type f -iname '*.pdf'
+  357  clear
+  358  find . -type -iname *.pdf
+  359  find . -type f -iname '*.pdf'
+  360  find . -type f -iname *.pdf
+  361  find . -type f -iname '*.pdf' > myProject2
+  362  cd Desktop
+  363  git clone https://github.com/Concellia/CalculatorPart2.git
+  364  cd calculatorpart2
+  365  cd CalculatorPart2
+  366  git status
+  367  git add .
+  368  git status
+  369  git commit -m "calculator"
+  370  git status
+  371  git push
+  372  clear
+  373  cd ..
+  374  Tiyiselani.md
+  375  touch Tiyiselani.txt
+  376  ls
+  377  nano Tiyiselani.txt
+  378  nano Tiyiselani
+  379  cat Tiyiselani.txt
+  380  nano Tiyiselani.txt
+  381  cd Desktop
+  382  git clone https://github.com/Concellia/Linux-challenges.git
+  383  cd Linux-challenges
+  384  ls
+  385  git add . 
+  386  git commit -m "Linux"
+  387  git status
+  388  git push
+  389  find ./Desktop -name jasmine
+  390  locate jasmine
+  391  cd Desktop 
+  392  git clone https://github.com/Concellia/Password_is_Valid.git
+  393  cd Password_is_Valid
+  394  git add .
+  395  git commit -m "Password"
+  396  git status
+  397  git push
+  398  ls
+  399  cd ..
+  400  ls
+  401  cd ..
+  402  ls
+  403  cd tmp
+  404  ls
+  405  cd ../..
+  406  ls
+  407  pwd
+  408  cd Desktop
+  409  git clone https://github.com/Concellia/String_Calculator.git
+  410  cd String_Calculator
+  411  git status
+  412  git add .
+  413  git commit -m "string calculator"
+  414  git status
+  415  git push
+  416  ping www.yahoo.com
+  417  locate python
+  418  python3 --version
+  419  python3 -V
+  420  sudo add-apt-repository ppa:jonathonf/python-3.6
+  421  sudo apt-get update
+  422  sudo apt-get install python3.6
+  423  sudo apt update
+  424  sudo apt upgrade
+  425  pwd
+  426  ls
+  427  cd Downloads
+  428  ls
+  429  ./pycharm.sh
+  430  cd pycharm-professional-2019.1.3.tar.gz
+  431  cd bin
+  432  sudo snap install pycharm-community --classic
+  433  sudo install pycharm-community --classic
+  434  tar -zxvf pycharm-professional-2018.1.1.tar.gz
+  435  clear
+  436  ls
+  437  tar -zxvf pycharm-professional-2019.1.3.tar.gz
+  438  cd pycharm-2018.1.1/ 
+  439  cd pycharm-2019.1.3/
+  440  ls
+  441  cd bin
+  442  ./pycharm.sh
+  443  node
+  444  pwd
+  445  git clone https://github.com/Concellia/Concellia.github.io.git
+  446  cd Concellia.github.io/
+  447  git init
+  448  git status
+  449  git add
+  450  git add all
+  451  git add 
+  452  git add -a
+  453  git status
+  454  git commit -m "Changes"
+  455  git status
+  456  git commit -a -m "Changes"
+  457  git status
+  458  git add -a
+  459  git status
+  460  git add .
+  461  git status
+  462  git commit -m "changes"
+  463  git status
+  464  git push
+  465  cd Desktop
+  466  git clone https://github.com/dwyl/learn-tdd.git
+  467  ls
+  468  cd learn-tdd
+  469  ls
+  470  git init
+  471  git status
+  472  git clone https://github.com/Concellia/Concellia.github.io.git
+  473  sudo apt upgrade
+  474  sudo apt update
+  475  sudo apt upgrade
+  476  ls
+  477  cd Concellia.github.io/
+  478  git status
+  479  git add .
+  480  git status
+  481  git commit -m "Changes"
+  482  git status
+  483  git push
+  484  git status
+  485  git add .
+  486  git commit -m "Added index file"
+  487  git status
+  488  git push
+  489  git status
+  490  git add .
+  491  git commit -m "fixed spelling"
+  492  git status
+  493  git push
+  494  git status
+  495  git add .
+  496  git status
+  497  git commit -m "Nav bar"
+  498  git status
+  499  git push
+  500  cd Desktop
+  501  ls
+  502  cd 'github folders'
+  503  cd 'gihub folders'
+  504  ls
+  505  git clone https://github.com/Concellia/Memory-Game.git
+  506  ls
+  507  cd Memory-Game
+  508  git status
+  509  git add .
+  510  git status
+  511  git rm memory-test.js
+  512  git status
+  513  git commit -a -m "Memory game"
+  514  \git status
+  515  git push
+  516  git status
+  517  cd Desktop
+  518  git clone https://github.com/Concellia/Object-Oriented-Programming.git
+  519  ls
+  520  cd Object-Oriented-Programming
+  521  ls
+  522  git status
+  523  git add .
+  524  git status
+  525  git commit -a -m "oop assignment"
+  526  git status
+  527  git push
+  528  npm init
+  529  npm init -y
+  530  node src/index.js
+  531  npm test
+  532  npm start
+  533  npm install express
+  534  npm int -y
+  535  npm init
+  536  npm init -y
+  537  node src/index.js
+  538  npm start
+  539  npm install express
+  540  npm install express --save
+  541  npm start
+  542  npm install nodemon --save
+  543  npm run start-watch
+  544  sudo snap install insomnia
+  545  ls
+  546  find inso
+  547  locate inso
+  548  locate insomnia
+  549  snap run insomnia
+  550  sudo apt install snapd
+  551  snap run insomnia
+  552  sudo snap install insomnia
+  553  snap run insomnia
+  554  cd Desktop
+  555  ls
+  556  cd nodePractice
+  557  ls
+  558  cd public
+  559  ls
+  560  nano index.html
+  561  cd Desktop
+  562  ls
+  563  cd nodePractice
+  564  ls
+  565  nano package.json
+  566  cd Desktop
+  567  ls 
+  568  cd Object-Oriented-Programming
+  569  git status
+  570  git add .
+  571  git status
+  572  git commit -a -m "fixed"
+  573  git status
+  574  git push
+  575  cd Desktop
+  576  cd node_assignment
+  577  git status
+  578  git add .
+  579  git status
+  580  git commit -a -m "done"
+  581  git status
+  582  git push
+  583  cd Desktop
+  584  git clone https://github.com/Concellia/node_assignment.git
+  585  node index.js
+  586  npm install express --save
+  587  node index
+  588  npm start
+  589  node index.js
+  590  node source/index.js
+  591  node npm start
+  592  npm start
+  593  sudo systemctl status mongodb
+  594  cd Desktop
+  595  git clone
+  596  git clone https://github.com/Concellia/bbdAssignment.git
+  597  git status
+  598  git add .
+  599  cd bbdAssignment
+  600  git add .
+  601  git status
+  602  git commit -a -m "done"
+  603  git commit
+  604  git add
+  605  git push
+  606  ./mongodb
+  607  sudo apt-get install -y mongodb-org
+  608  sudo systemctl status mongodb
+  609  sudo apt update 
+  610  sudo apt upgrade -y
+  611  sudo apt install mongodb
+  612  sudo systemctl status mongodb
+  613  sudo apt-get install -y mongodb-org
+  614  mkdir data
+  615  echo 'mongod --bind_ip=$IP --dbpath=data --nojournal --rest "$@"' > mongod
+  616  chmod a+x mongod
+  617  ./mongod
+  618  echo 'mongod --bind_ip=$IP --dbpath=data --nojournal --rest "$@"' > mongod
+  619  chmod a+x mongod
+  620  ./mongod
+  621  npm init -y
+  622  npm i --save express body-parser mongodb
+  623  mongodb
+  624  locate mongodb'
+  625  locate mongodb
+  626  md \data\db
+  627  "C:\Program Files\MongoDB\Server\3.2\bin\mongod.exe" --dbpath d:\test\mongodb\data
+  628  "C:\Program Files\MongoDB\Server\3.2\bin\mongod.exe"
+  629  npm list mongoose
+  630  npm list mongodb
+  631  which mongo
+  632  brew install mongodb
+  633  npm install --save mongoose
+  634  node app.js
+  635  node register.js
+  636  mongo
+  637  cd Desktop
+  638  git clone https://github.com/Concellia/node_assignment.git
+  639  mongo
+  640  cd node_part2
+  641  node node2
+  642  npm init -y
+  643  npm install --save mongodb mongoose express
+  644  node node2
+  645  npm install mongodb
+  646  node code.js
+  647  sudo service mongod status
+  648  mongo
+  649  node code
+  650  mongo --version
+  651  node code
+  652  npm init -y
+  653  npm install --save mongoose mongodb express
+  654  node index
+  655  mongo
+  656  sudo service mongod start
+  657  sudo chkconfig mongod on
+  658  mongo --host 127.0.0.1:27017
+  659  mongo
+  660  node index
+  661  cd Desktop
+  662  ls
+  663  cd gihub folders
+  664  cd 'gihub folders'
+  665  ls
+  666  cd ../../
+  667  ls
+  668  cd Concellia.github.io
+  669  ls
+  670  git status
+  671  mongo
+  672  node free
+  673  npm install jasmine-node
+  674  jasmine init
+  675  jasmin init
+  676  npm install --save-dev jasmine
+  677  npx jasmine init
+  678  node_modules/.bin/jasmine init
+  679  jasmine examples
+  680  jasmine
+  681  mongo
+  682  sudo service mongod start
+  683  mongo --host 127.0.0.1:27017
+  684  npm run test
+  685  nano README.md
+  686  cat README.md
+  687  npm run test-init
+  688  npm run test
+  689  npm test
+  690  npm install jquery --save
+  691  npm test
+  692  locate jquery
+  693  npm test
+  694  mongod start
+  695  sudo service mongod start
+  696  npm test
+  697  sudo service mongod start
+  698  mongo --host 127.0.0.1:27017
+  699  node app.js
+  700  npm test
+  701  cd Desktop
+  702  ls
+  703  Memory-Game
+  704  cd Memory-Game
+  705  git status
+  706  git add .
+  707  git status
+  708  git commit -a -m "testing done"
+  709  git status
+  710  git push
+  711  git pull
+  712  git status
+  713  git push
+  714  uname -r
+  715  sudo apt update
+  716  sudo apt upgrade
+  717  sudo apt-get -y install docker.io
+  718  sudo ln -sf /usr/bin/docker.io /usr/local/bin/docker
+  719  sudo sed -i '$acomplete -F _docker docker' /etc/bash_completion.d/docker.io
+  720  sudo apt remove docker docker-engine docker.io containerd runc
+  721  sudo apt update
+  722  sudo apt-get install apt-transport-https ca-certificates curl gnupg-agent software-properties-common
+  723  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+  724  sudo apt-key fingerprint 0EBFCD88
+  725  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu
+  726   bionic stable"
+  727  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu
+  728   bionic stable"
+  729  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu
+  730   bionic stable"
+  731  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+  732  sudo apt update
+  733  sudo apt install docker-ce docker-ce-cli containerd.io
+  734  apt-cache madison docker-ce
+  735  clear
+  736  sudo docker run hello-world
+  737  cd Desktop
+  738  touch docker-compose.yaml
+  739  ls
+  740  nano docker-compose.yaml
+  741  cat docker-compose.yaml
+  742  docker-compose up
+  743  sudo apt install docker-compose
+  744  docker-compose up
+  745  sudo docker-compose up
+  746  sudo dockerd
+  747  docker info
+  748  sudo service docker start
+  749  docker-compose up
+  750  sudo docker-compose up
+  751  export DOCKER_HOST=127.0.0.1
+  752  docker-compose up
+  753  docker container ls
+  754  sudo docker container ls
+  755  sudo docker exec gihubfolders_db_1
+  756  sudo docker exec githubfolder_db_1 bash
+  757  sudo docker exec gihubfolder_db_1 bash
+  758  sudo docker container ls
+  759  sudo docker exec gihubfolders_db_1 bash
+  760  sudo -uroot -prootpass
+  761  mysql -uroot -prootpass
+  762  sudo apt install mysql-client-core-5.7
+  763  mysql -uroot -prootpass
+  764  cd Desktop
+  765  cd ..
+  766  docker --version
+  767  cd Desktop/
+  768  cd 'github folder'
+  769  cd 'github folders'
+  770  cd github folders
+  771  cd "github folders"
+  772  ls
+  773  cd 'gihub folders'
+  774  docker-compose up
+  775  sudo -s
+  776  sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  777  sudo chmod +x /usr/local/bin/docker-compose
+  778  docker-compose up
+  779  clear
+  780  docker
+  781  docker container ls
+  782  CREATE DATABASE shop
+  783  docker-compose up
+  784  docker run --name -p 8000:3306 -e MYSQL_ROOT_PASSWORD=rootpass mysql
+  785  docker search ubuntu
+  786  docker ps
+  787  docker images
+  788  exit
+  789  cd Desktop
+  790  cd docker
+  791  sudo docker-compose up
+  792  cd Desktop/docker
+  793  docker-compose ps
+  794  sudo docker-compose ps
+  795  sudo -s
+  796  docker-compose ps
+  797  docker run --name -p -4000:3306 -e MYSQL_ROOT_PASSWORD=rootpass mysql
+  798  docker run --name -p 4000:3306 -e MYSQL_ROOT_PASSWORD=rootpass mysql
+  799  docker run --name -p 3000:3306 -e MYSQL_ROOT_PASSWORD=rootpass mysql
+  800  mysql -uroot -prootpass
+  801  sudo -s
+  802  quit
+  803  \q
+  804  docker exec
+  805  docker exec docker_db_1  bash
+  806  mysql -uroot -prootpass
+  807  npm i -g create-react-app@1.5.2
+  808  sudo apt update
+  809  sudo apt upgrade
+  810  sudo apt-get remove --purge tor-browser
+  811  ls
+  812  cd Download
+  813  cd Downloads
+  814  ls
+  815  locate tor
+  816  lcate
+  817  locate tor
+  818  ./start-tor-browser &
+  819  npm init
+  820  npm install --save jasmine
+  821  jasmine init
+  822  npm install
+  823  npm run
+  824  npm install
+  825  npm install basic_AlgorithmP1-master
+  826  npm install
+  827  npm run
+  828  npm tes
+  829  npm test
+  830  npm init
+  831  cd Desktop
+  832  git clone https://github.com/Concellia/game.git
+  833  git status
+  834  git add .
+  835  ping google.com
+  836  pwd
+  837  git add basic-exercises
+  838  git add git-basic-exercises
+  839  pwd
+  840  ls
+  841  mkdir git basic exercises
+  842  cd
+  843  ls
+  844  pwd
+  845  git checkout -b workspace
+  846  ls
+  847  ls -Rwq
+  848  ls -R
+  849  ls -Rwq
+  850  ls -R
+  851  pwd
+  852  mkdir git basic exercises
+  853  rmdir git basic exercises
+  854  pwd
+  855  ls
+  856  apt-get moo
+  857  grep -R .
+  858  history
+  859  apt-get moo
+  860  ls
+  861  pwd
+  862  mkdir git-basic-exercises
+  863  ls
+  864  cd
+  865  mkdir git-basic-exercises
+  866  mkdir git-basic-exercises
+  867  rmdir git-basic-exercises
+  868  ls
+  869  mkdir git-basic-exerises
+  870  cd
+  871  pwd
+  872  mkdir git-basic-exercises
+  873  git log
+  874  usecd
+  875  cd ../
+  876  user config
+  877  git config
+  878  usermod -l login-name old-name
+  879  usermod -l Concellia
+  880  git config --karabo.mantse@umuzi.org
+  881  git config --global user.email "karabo.mantse@umuzi.org"
+  882  git config --global user.name "Karabo9723"
+  883  git config --global --edit
+  884  mkdir git-basic-exercises
+  885  ls
+  886  cd basic-git-exercises
+  887  ls
+  888  git branch
+  889  git branch milkshake-flavours
+  890  git branch
+  891  git branch * milkshake-flavours
+  892  git branch
+  893  git checkout master
+  894  git checkout milkshake-flavours
+  895  git branch
+  896  nano milkshakes.md
+  897  git status
+  898  git commit -m "added initial flavours"
+  899  git add milkshakes.md
+  900  git commit -m "added initial flavours"
+  901  git log
+  902  git master
+  903  git branch master
+  904  git branch
+  905  git checkout master 
+  906  git status
+  907  git log
+  908  git branch
+  909  git checkout master
+  910  git branch history
+  911  git branch
+  912  git log
+  913  history > history.txt
